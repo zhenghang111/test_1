@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  qyt-nginx-chart:
+  - apiVersion: v2
+    appVersion: "1.25"
+    created: "2025-02-11T20:40:40.048705119-05:00"
+    description: A Helm chart for QYT Nginx deployment
+    digest: c7779dbc5e7a5b10184ef19d064f74047ac39c50c1bc270f0a78a804f8819056
+    name: qyt-nginx-chart
+    urls:
+    - https://zhenghang111.github.io/test_1/qyt-nginx-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-11T20:40:40.046722842-05:00"
