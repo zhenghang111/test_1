@@ -1,0 +1,13 @@
+replicaCount: 3
+
+image:
+  repository: nginx
+  tag: "1.25"
+
+service:
+  type: ClusterIP
+  port: 8080
+  targetPort: 80
+
+labels:
+  app: qyt-lb-dp-label 
